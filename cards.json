@@ -6,7 +6,7 @@
       "description": "Cần nhân vật Hayato",
       "image": "https://kenmodz.github.io/images/v3-50.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ff.zip",
+      "ff": "https://github.com/leanhtuong2006/FFTool/blob/main/ff_max.zip",
       "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ffmax.zip",
       "updated": 1735000000
     },
@@ -32,3 +32,4 @@
     }
   ]
 }
+
