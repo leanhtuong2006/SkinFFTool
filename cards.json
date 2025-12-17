@@ -9,7 +9,7 @@
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/FFTool/blob/main/ff_max.zip",
       "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ffmax.zip",
-      "min_app_version": "1.0",
+      "min_app_version": "1.2",
       "updated": 1735000000
     },
     {
@@ -38,6 +38,7 @@
     }
   ]
 }
+
 
 
 
