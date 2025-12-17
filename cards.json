@@ -9,6 +9,7 @@
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/FFTool/blob/main/ff_max.zip",
       "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ffmax.zip",
+      "min_app_version": "1.0",
       "updated": 1735000000
     },
     {
@@ -20,6 +21,7 @@
       "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
       "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ff.zip",
       "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ffmax.zip",
+      "min_app_version": "1.0",
       "updated": 1734000000
     },
     {
@@ -31,10 +33,12 @@
       "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
       "ff": "https://github.com/leanhtuong2006/SkinFFTool/raw/refs/heads/main/v1.zip",
       "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v1_ffmax.zip",
+      "min_app_version": "1.0",
       "updated": 1733000000
     }
   ]
 }
+
 
 
 
