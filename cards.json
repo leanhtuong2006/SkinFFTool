@@ -4,6 +4,7 @@
       "id": "v3",
       "title": "Bản v3",
       "description": "Cần nhân vật Hayato",
+        "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật/trang phục (nếu yêu cầu)\n\nLưu ý:\n- Nếu Android 11+ cần bật Shizuku",
       "image": "https://kenmodz.github.io/images/v3-50.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
       "ff": "https://github.com/leanhtuong2006/FFTool/blob/main/ff_max.zip",
@@ -14,6 +15,7 @@
       "id": "v2",
       "title": "Bản v2",
       "description": "Cần nhân vật Kelly",
+        "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật/trang phục (nếu yêu cầu)\n\nLưu ý:\n- Nếu Android 11+ cần bật Shizuku",
       "image": "https://kenmodz.github.io/images/v27-50.jpg",
       "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
       "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ff.zip",
@@ -24,6 +26,7 @@
       "id": "v1",
       "title": "Bản v1",
       "description": "Cần nhân vật Alok thức tỉnh",
+        "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật/trang phục (nếu yêu cầu)\n\nLưu ý:\n- Nếu Android 11+ cần bật Shizuku",
       "image": "https://kenmodz.github.io/images/v27-50.jpg",
       "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
       "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v1_ff.zip",
@@ -32,4 +35,5 @@
     }
   ]
 }
+
 
