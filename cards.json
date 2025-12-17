@@ -1,5 +1,41 @@
 {
   "cards": [
+         {
+      "id": "v6",
+      "title": "Bản v6",
+      "description": "Cần nhân vật Hayato",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/ff_max.zip",
+      "min_app_version": "1.0",
+      "updated": 1738000000
+    },
+     {
+      "id": "v5",
+      "title": "Bản v5",
+      "description": "Cần nhân vật Hayato",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/ff_max.zip",
+      "min_app_version": "1.0",
+      "updated": 1737000000
+    },
+     {
+      "id": "v4",
+      "title": "Bản v4",
+      "description": "Cần nhân vật Hayato",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://kenmodz.github.io/images/v3-50.jpg",
+      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/ff_max.zip",
+      "min_app_version": "1.0",
+      "updated": 1736000000
+    },
     {
       "id": "v3",
       "title": "Bản v3",
@@ -7,9 +43,9 @@
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://kenmodz.github.io/images/v3-50.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/FFTool/blob/main/ff_max.zip",
-      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v3_ffmax.zip",
-      "min_app_version": "1.2",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/ff_max.zip",
+      "min_app_version": "1.0",
       "updated": 1735000000
     },
     {
@@ -19,8 +55,8 @@
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://kenmodz.github.io/images/v27-50.jpg",
       "video": "https://www.youtube.com/watch?v=YYYYYYYYYYY",
-      "ff": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ff.zip",
-      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v2_ffmax.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1734000000
     },
@@ -31,13 +67,14 @@
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://kenmodz.github.io/images/v27-50.jpg",
       "video": "https://www.youtube.com/watch?v=ZZZZZZZZZZZ",
-      "ff": "https://github.com/leanhtuong2006/SkinFFTool/raw/refs/heads/main/v1.zip",
-      "ffmax": "https://raw.githubusercontent.com/USER/REPO/main/zips/v1_ffmax.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1733000000
     }
   ]
 }
+
 
 
 
