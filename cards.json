@@ -1,7 +1,7 @@
 {
   "cards": [     {
       "id": "v10",
-      "title": "Hỏa Thần Tối Thượng",
+      "title": "V10",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V145/v145.jpg",
@@ -13,7 +13,7 @@
     },
           {
       "id": "v9",
-      "title": "Ác Quỷ Hỗn Mang",
+      "title": "V9",
       "description": "Nhân vật Kairos",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Kairos\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/v6.jpg",
@@ -25,7 +25,7 @@
     },
           {
       "id": "v8",
-      "title": "Hỏa Băng Dị Thể",
+      "title": "V8",
       "description": "Nhân vật Nairi",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Nairi\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/v5.jpg",
@@ -37,7 +37,7 @@
     },
           {
       "id": "v7",
-      "title": "Đường Phố Nổi Loạn",
+      "title": "V7",
       "description": "Nhân vật Nairi",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Nairi\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/v2.jpg",
@@ -49,7 +49,7 @@
     },
              {
       "id": "v6",
-      "title": "Kẻ Săn Mồi Công Nghệ",
+      "title": "V6",
       "description": "Nhân vật Shirou",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Shirou\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/v1.jpg",
@@ -61,7 +61,7 @@
     },
          {
       "id": "v5",
-      "title": "Chiến Thần Kim Diệm",
+      "title": "V5",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
@@ -73,7 +73,7 @@
     },
      {
       "id": "v4",
-      "title": "Hỏa Linh Lam Diệm",
+      "title": "V4",
       "description": "Nhân vật Ignis",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V7/v7.jpg",
@@ -85,7 +85,7 @@
     },
     {
       "id": "v3",
-      "title": "DJ Thức Tỉnh",
+      "title": "V3",
       "description": "Nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V131/v131.jpg",
@@ -97,7 +97,7 @@
     },
     {
       "id": "v2",
-      "title": "DJ Bóng Đêm",
+      "title": "V2",
       "description": "Nhân vật Alok thức tỉnh",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V130/v130.jpg",
@@ -109,7 +109,7 @@
     },
     {
       "id": "v1",
-      "title": "Bộ Itachi",
+      "title": "V1",
       "description": "Nhân vật Alok thức tỉnh + Áo đới mộc bạch",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh + Áo đới mộc bạch \n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật và áo.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V111/v111.jpg",
@@ -121,6 +121,7 @@
     }
   ]
 }
+
 
 
 
