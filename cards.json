@@ -66,8 +66,8 @@
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V1/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V1/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v1/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1738000000
     },
@@ -133,6 +133,7 @@
     }
   ]
 }
+
 
 
 
