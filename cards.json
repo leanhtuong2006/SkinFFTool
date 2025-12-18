@@ -12,38 +12,38 @@
       "updated": 1750000000
     },
           {
+      "id": "v10",
+      "title": "Bản v10",
+      "description": "Cần nhân vật Hayato",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
+      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v11/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v11/ff_max.zip",
+      "min_app_version": "1.0",
+      "updated": 1742000000
+    },
+              {
       "id": "v9",
       "title": "Bản v9",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V11/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V11/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v6/ff_max.zip",
       "min_app_version": "1.0",
-      "updated": 1742000000
+      "updated": 1741000000
     },
-              {
+          {
       "id": "v8",
       "title": "Bản v8",
       "description": "Cần nhân vật Hayato",
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V6/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V6/ff_max.zip",
-      "min_app_version": "1.0",
-      "updated": 1741000000
-    },
-          {
-      "id": "v7",
-      "title": "Bản v7",
-      "description": "Cần nhân vật Hayato",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
-      "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V5/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V5/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v5/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1740000000
     },
@@ -54,8 +54,8 @@
       "detail": "Cần chuẩn bị:\n✅ Nhân vật Alok thức tỉnh\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V98/v98.jpg",
       "video": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V2/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/V2/ff_max.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/v2/ff_max.zip",
       "min_app_version": "1.0",
       "updated": 1739000000
     },
@@ -133,6 +133,7 @@
     }
   ]
 }
+
 
 
 
