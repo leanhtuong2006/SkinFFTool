@@ -89,7 +89,7 @@
       "title": "M590 DIGIMON",
       "description": "Cần M590 phong xà",
       "detail": "Cần chuẩn bị:\n✅ Súng M590 phong xà\n\nCách cài:\n1) Vào xóa gói mở rộng của vũ khí\n2) Tải lại súng tương ứng\n\n *Không có FF Max.",
-      "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/M590.jpg",
+      "image": "https://github.com/leanhtuong2006/SkinFF/blob/main/huyphongbac/M590.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
@@ -290,6 +290,7 @@
     }
   ]
 }
+
 
 
 
