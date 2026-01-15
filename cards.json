@@ -244,7 +244,7 @@
       "id": "v4",
       "title": "V4",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n Không có FFMax",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Không có FFMax, Cre: TVH Mod.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/V3.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
@@ -256,7 +256,7 @@
       "id": "v3",
       "title": "V3",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Cre: Kenmodz.",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V1/V1.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V1/ff_th.zip",
@@ -268,7 +268,7 @@
       "id": "v2",
       "title": "V2",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n Không có FFMax",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Không có FFMax",
       "image": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V2/V2.jpg",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V2/ff_th.zip",
@@ -290,6 +290,7 @@
     }
   ]
 }
+
 
 
 
