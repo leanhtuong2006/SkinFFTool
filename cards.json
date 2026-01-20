@@ -222,12 +222,12 @@
              {
       "id": "v6",
       "title": "V6",
-      "description": "Nhân vật Orion",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Orion\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Không có FFMax.",
+      "description": "Nhân vật Ryden",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ryden\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
-      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/Sukuna/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/Sukuna/ff_th.zip",
+      "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_max.zip",
       "min_app_version": "1.3",
       "updated": 1738000000
     },
@@ -239,7 +239,7 @@
       "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_th.zip",
-      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_th.zip",
+      "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_max.zip",
       "min_app_version": "1.3",
       "updated": 1737000000
     },
@@ -247,7 +247,7 @@
       "id": "v4",
       "title": "V4",
       "description": "Nhân vật Ignis",
-      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.\n\n Không có FFMax, Cre: TVH Mod.",
+      "detail": "Cần chuẩn bị:\n✅ Nhân vật Ignis\n\nCách cài:\n1) Vào xóa gói mở rộng của nhân vật\n2) Tải lại nhân vật.",
       "image": "",
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
@@ -296,6 +296,7 @@
     }
   ]
 }
+
 
 
 
