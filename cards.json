@@ -9,7 +9,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/m1887vutru/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000008
     },
     
@@ -22,7 +22,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/huyphongbac/M590/ff_th.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000007
     },
     {
@@ -34,7 +34,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp40mangxa/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000006
     },
             {
@@ -46,7 +46,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/umpphongcach/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000005
     },
             {
@@ -58,7 +58,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m887thanhphong/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000004
     },
              {
@@ -70,7 +70,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/sanuyt/m1014longtoc/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000003
     },
           {
@@ -82,7 +82,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/mp5thienthanbachkim/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 2000000002
     },
         {
@@ -97,6 +97,8 @@
       "min_app_version": "1.3",
       "updated": 2000000000
     },
+
+    
                   {
       "id": "v16",
       "title": "V16",
@@ -193,6 +195,8 @@
       "min_app_version": "1.8",
       "updated": 1741000000
     },
+
+    
           {
       "id": "v8",
       "title": "V8",
@@ -202,7 +206,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V3/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 1740000000
     },
           {
@@ -214,7 +218,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/kenmodz/V2/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 1739000000
     },
 
@@ -228,7 +232,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/cipavn/yuji%20itadori/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 1738000000
     },
          {
@@ -240,7 +244,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V4/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 1737000000
     },
      {
@@ -252,7 +256,7 @@
       "video": "https://www.youtube.com/watch?v=uuQnSaKbhSQ",
       "ff": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_th.zip",
       "ffmax": "https://github.com/leanhtuong2006/SkinFF/raw/refs/heads/main/modskinff/V3/ff_max.zip",
-      "min_app_version": "1.3",
+      "min_app_version": "1.4",
       "updated": 1736000000
     },
 
@@ -296,6 +300,7 @@
     }
   ]
 }
+
 
 
 
